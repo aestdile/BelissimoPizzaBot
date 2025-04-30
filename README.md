@@ -1,4 +1,4 @@
-# 🍕 BelissimoPizzaBot - Telegram Oshxona Boti
+# 🍕 BelissimoPizza - Telegram Boti
 
 **BelissimoPizzaBot** — bu foydalanuvchiga turli menyulardan taomlar tanlash, buyurtma qilish va to‘lov chekini yuborish imkonini beruvchi zamonaviy Telegram bot hisoblanadi. Admin esa foydalanuvchilarning buyurtmalari va faoliyatini kuzatib borishi mumkin.
 
