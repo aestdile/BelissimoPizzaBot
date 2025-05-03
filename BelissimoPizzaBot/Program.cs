@@ -14,7 +14,7 @@ namespace OshxonaBot
 
         static async Task Main(string[] args)
         {
-            string botToken = "7518052919:AAHCzFxnzmFVuUmhNIdfjc-i2BL7M05s1fo";
+            string botToken = "Your_Token";
             botClient = new TelegramBotClient(botToken);
 
             if (File.Exists(jsonFilePath))
